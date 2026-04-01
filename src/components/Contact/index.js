@@ -29,7 +29,7 @@ const Contact = () => {
       .then(
         () => {
           alert("Message successfully sent!");
-          window.location.reload(false);
+          e.target.reset();
         },
         (error) => {
           console.error("EmailJS Error:", error);
