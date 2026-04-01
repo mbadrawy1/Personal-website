@@ -2,33 +2,33 @@
     "portfolio": [
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "Smart Safety Inspector Guard (SSIG)",
+            "description": "AI-driven autonomous industrial safety robot with SLAM navigation & YOLOv8 detection. Grade: A",
+            "url": "https://github.com/mbadrawy1"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "Zindi Financial Inclusion",
+            "description": "Predictive ML model for banking access in East Africa using feature engineering",
+            "url": "https://github.com/mbadrawy1"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "Image Share (MERN)",
+            "description": "Full-stack social media app for image sharing with user auth & optimized DB queries",
+            "url": "https://github.com/mbadrawy1"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "AI Healthcare Assistant",
+            "description": "Capstone project - AI assistant for healthcare built during DEPI ML program",
+            "url": "https://github.com/mbadrawy1"
         },
         {
             "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "title": "Personal Portfolio",
+            "description": "React-based personal website with animated UI, EmailJS contact & Leaflet maps",
+            "url": "https://github.com/mbadrawy1/Personal-website"
         }
     ]
 }

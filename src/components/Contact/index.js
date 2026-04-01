@@ -92,16 +92,15 @@ const Contact = () => {
         <div className="info-map">
           Mohamad Badrawy,
           <br />
-          Egypt,
+          Cairo, Egypt
           <br />
-          New Alamein city <br />
           <br />
-          <span>mobadrrawy@gmail.com</span>
+          <span>badrawymohamad@gmail.com</span>
         </div>
         <div className="map-wrap">
-          <MapContainer center={[30.856, 28.9056]} zoom={13}>
+          <MapContainer center={[30.0444, 31.2357]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[30.856, 28.9056]}>
+            <Marker position={[30.0444, 31.2357]}>
               <Popup>
                 Mohamad Badrawy lives here, come over for a cup of coffee :)
               </Popup>

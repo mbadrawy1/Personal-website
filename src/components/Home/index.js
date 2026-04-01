@@ -26,7 +26,32 @@ const Home = () => {
     "w",
     "y",
   ];
-  const jobArray = ["A", "I", " ", "E", "n", "g", "i", "n", "e", "e", "r"];
+  const jobArray = [
+    "A",
+    "I",
+    " ",
+    "&",
+    " ",
+    "F",
+    "u",
+    "l",
+    "l",
+    " ",
+    "S",
+    "t",
+    "a",
+    "c",
+    "k",
+    " ",
+    "E",
+    "n",
+    "g",
+    "i",
+    "n",
+    "e",
+    "e",
+    "r",
+  ];
 
   // useEffect(() => {
   //   return setTimeout(() => {
@@ -57,7 +82,7 @@ const Home = () => {
               idx={16}
             />
           </h1>
-          <h2>Machine Learning / JavaScript / Engineering</h2>
+          <h2>AI / Full Stack / MERN / Python</h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
           </Link>

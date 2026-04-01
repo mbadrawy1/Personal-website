@@ -34,17 +34,24 @@ const About = () => {
             />
           </h1>
           <p>
-            I am an Artificial Intelligence (AI) engineer with a strong
-            foundation in algorithms, data structures, and practical experience
-            in implementing machine learning projects. My passion for AI and
-            advanced technologies drives my constant pursuit of knowledge and
-            expertise in the field
+            Strong software engineer with a focus on Artificial Intelligence.
+            Skilled at developing and deploying applications with the MERN stack
+            (MongoDB, React, NodeJS) and Python. Leveraging a solid background
+            in data structures, algorithms, and object-oriented software design
+            to create user-focused and super-integrated software.
           </p>
           <p align="LEFT">
-            Currently, I am pursuing a degree in an interdisciplinary field, AI
-            engineering, at Alamein International University (AIU)
+            Graduate of Alamein International University (AIU) with a BS in
+            Computer Engineering, majoring in Artificial Intelligence (Class of
+            2026). Award-winning competitor — recognized as the Youngest
+            Competitor at Google's largest AI hackathon in Africa & MENA.
           </p>
-          <p></p>
+          <p>
+            Experienced in freelance AI consulting, machine learning
+            engineering through the Digital Egypt Pioneers Initiative, and
+            full-stack development. Passionate about building intelligent,
+            real-world solutions.
+          </p>
         </div>
 
         <div className="stage-cube-cont">
