@@ -31,8 +31,9 @@ const Contact = () => {
           alert("Message successfully sent!");
           window.location.reload(false);
         },
-        () => {
-          alert("Failed to send the message, please try again");
+        (error) => {
+          console.error("EmailJS Error:", error);
+          alert("Failed to send the message, please try again. Error: " + (error.text || error.message || JSON.stringify(error)));
         }
       );
   };
